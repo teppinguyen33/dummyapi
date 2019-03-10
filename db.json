@@ -12,7 +12,7 @@
       "workHis":[
         {
           "id": "1",
-          "name": "aaa",
+          "name": "work his 1",
           "free": "1",
           "money": 10
         }
@@ -30,15 +30,15 @@
       "workHis": [
         {
           "id": "2",
-          "name": "aaa",
-          "free": "1",
-          "money": 10
+          "name": "work his 2",
+          "free": "0",
+          "money": 22
         },
         {
           "id": "3",
-          "name":"aaa",
+          "name":"work his 3",
           "free": "1",
-          "money": 10
+          "money": 100
         }
       ]
     },
