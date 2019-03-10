@@ -9,9 +9,9 @@
       "status": 0,
       "loginTime": "22:10:32",
       "working": 1,
-      "workhis":[
+      "workHis":[
         {
-          "groudId": 1,
+          "id": 1,
           "name": "aaa",
           "free": "1",
           "money": 10
@@ -27,7 +27,7 @@
       "status": 0,
       "loginTime": "22:10:32",
       "working": 1,
-      "workhis": [
+      "workHis": [
         {
           "id": 2,
           "name": "aaa",
