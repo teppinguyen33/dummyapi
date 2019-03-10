@@ -41,6 +41,16 @@
           "money": 10
         }
       ]
+    },
+    {
+      "id": "3",
+      "name": "b",
+      "sortOrder": 1,
+      "turn": 10,
+      "turnAll": 15,
+      "status": 0,
+      "loginTime": "22:10:32",
+      "working": 1
     }
   ]
 }
