@@ -4,12 +4,12 @@
       "id" : "1",
       "name": "a",
       "sortOrder": 1,
-      "Turn": 10,
-      "TurnAll": 15,
-      "Status": 0,
-      "LoginTime": "22:10:32",
-      "Working": 1,
-      "Workhis":[
+      "turn": 10,
+      "turnAll": 15,
+      "status": 0,
+      "loginTime": "22:10:32",
+      "working": 1,
+      "workhis":[
         {
           "groudId": 1,
           "name": "aaa",
@@ -22,12 +22,12 @@
       "id": "2",
       "name": "b",
       "sortOrder": 1,
-      "Turn": 10,
-      "TurnAll": 15,
-      "Status": 0,
-      "LoginTime": "22:10:32",
-      "Working": 1,
-      "Workhis": [
+      "turn": 10,
+      "turnAll": 15,
+      "status": 0,
+      "loginTime": "22:10:32",
+      "working": 1,
+      "workhis": [
         {
           "id": 2,
           "name": "aaa",
