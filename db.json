@@ -1,5 +1,7 @@
 {
-  "data": [
+  "data": {
+  "status": false,
+  "detail": [
     {
       "id" : "1",
       "name": "a",
@@ -53,4 +55,5 @@
       "working": 1
     }
   ]
+  }
 }
